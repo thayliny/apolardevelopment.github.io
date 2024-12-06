@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFE4E1;
+  color: #5A5A5A;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #E0BDB9;
+}
+
+.logo {
+  max-height: 200px;
+}
+
+.catalogo-title {
+  color: #E0BDB9;
+  font-size: 3rem;
+}
+
+.descricao {
+  font-size: 1.2rem;
+}
+
+.servico {
+  background-color: #E0BDB9;
+  padding: 20px;
+  color: white;
+  border-radius: 8px;
+}
+
+.quem-somos {
+  background-color: #FFE4E1;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.quem-somos-imagem {
+  max-width: 500px;
+  border-radius: 500%;
+}
+
+footer {
+  background-color: #E0BDB9;
+  color: white;
+}
+
